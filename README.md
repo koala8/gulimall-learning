@@ -1,3 +1,5 @@
+此项目fork自 https://github.com/NiceSeason/gulimall-learning
+
 # 谷粒商城
 
 ![](https://img.shields.io/badge/building-passing-green.svg)![GitHub](https://img.shields.io/badge/license-MIT-yellow.svg)![jdk](https://img.shields.io/static/v1?label=oraclejdk&message=8&color=blue)
